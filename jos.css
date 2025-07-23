@@ -1,0 +1,79 @@
+
+*{
+    background-color: rgb(147, 181, 212);
+}
+
+
+.container {
+  padding: 3.8rem;
+}
+
+
+
+.mipagina {
+    color: #2d2d2b;
+    font-size: 4rem;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+.caja{
+   background-color: rgb(92, 142, 189);
+   height: 100%;
+   width: 20%;
+   max-width: 62rem;
+   min-width: 30rem;
+   max-height: 25rem;
+   box-sizing: border-box;
+   border: 1px solid #ccc;
+   border-radius: 18px;
+   
+}
+
+
+
+
+.quien {
+    color: #2d2d2b;
+    font-size: 2.5rem;
+    background-color: rgb(92, 142, 189);
+    
+}
+
+.foto {
+    width:59%;
+    height: 9.6rem;
+    display: block;
+    margin-left: 1.5rem;
+    
+}
+
+
+
+
+.hoja{
+    display: block;
+    width: 90%;
+    justify-self: center;
+}
+
+
+
+.tienda{
+     display: block;
+     width: 90%;
+    justify-self: center;
+}
+
+.boton{
+    margin-left: 1.2rem;
+    
+}
+
+.botondelink{
+    border-radius: 6px;
+}   
+
+
+
